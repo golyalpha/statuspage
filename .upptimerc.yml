@@ -2,7 +2,7 @@
 owner: golyalpha # Your GitHub organization or username, where this repository lives
 repo: statuspage # The name of this repository
 
-runner: "[self-hosted, linux, ARM64]"
+runner: "[self-hosted, linux, X64]"
 
 sites:
   - name: Git
